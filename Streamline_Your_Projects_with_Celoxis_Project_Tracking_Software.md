@@ -16,7 +16,7 @@ Ensure your resources are allocated effectively by tracking their usage across m
 Risk and Issue Management
 Project tracking software isn’t just about monitoring progress; it’s about proactively addressing risks and issues. Celoxis allows you to log and manage potential risks, ensuring they are addressed quickly and preventing project delays.
 
-Key Features of Celoxis Project Tracking Software (https://www.celoxis.com/article/project-tracking-software-helps-manage-timelines)
+Key Features of Celoxis Project Tracking Software 
 Real-Time Monitoring: Track tasks, budgets, and progress as it happens.
 Critical Path Visualization: Identify dependencies and ensure tasks are completed on time.
 Custom Dashboards and Reports: Tailor views to track the metrics that matter most to your project.
@@ -33,3 +33,4 @@ Celoxis is more than just project tracking software—it’s an all-in-one proje
 
 Try Celoxis Today
 Experience the benefits of comprehensive project tracking software with Celoxis. Visit Celoxis to learn more and start your free trial today.
+(https://www.celoxis.com/article/project-tracking-software-helps-manage-timelines)
