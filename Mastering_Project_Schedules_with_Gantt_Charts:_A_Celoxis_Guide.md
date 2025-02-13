@@ -3,7 +3,7 @@ Introduction:
 Start by briefly explaining what a Gantt chart is and its importance in project management.
 Highlight how Gantt charts provide a visual representation of project timelines, tasks, dependencies, and resources.
 Briefly mention Celoxis as a powerful project management software that excels in creating and managing Gantt charts.
-Key Benefits of Using Gantt Charts:
+Key Benefits of Using Gantt Charts: @https://www.celoxis.com/article/gantt-chart-software-tools
 
 Improved Project Visibility:
 Discuss how Gantt charts provide a clear overview of the entire project, making it easy to identify potential roadblocks and delays.
