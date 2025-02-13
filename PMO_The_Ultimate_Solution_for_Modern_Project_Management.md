@@ -23,6 +23,7 @@ Key Benefits of a PMO:
 A well-defined PMO helps organizations achieve strategic goals, enhance efficiency, and maximize ROI.
 
 Key Functions of a PMO
+
 1️⃣ Project Portfolio Management
 A PMO provides a holistic view of all projects, ensuring they align with business priorities.
 
