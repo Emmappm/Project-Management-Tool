@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://sites.google.com/view/bestprojectmanagementtool/</loc>
+  </url>
+  <url>
+    <loc>https://sites.google.com/view/bestprojectmanagementtool/features</loc>
+  </url>
+  <url>
+    <loc>https://sites.google.com/view/bestprojectmanagementtool/pricing</loc>
+  </url>
+  <!-- Add all your internal pages -->
+</urlset>
+
